@@ -25,6 +25,7 @@
             "Nom": "Michael Keaton",
             "Personnage": "Walter Nelson (voix)"
           }
+        ]
         },
         "Description":"Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world."
         "Budget": "$74,000,000"
@@ -32,6 +33,25 @@
         "Total USA":"$336,045,770"
         "Total dans le monde":"$1,159,443,932"
     },
+    {
+      "Titre":"Fight Club":[
+      {
+        "Directeur":"David Fincher"
+      },
+      {
+        "Auteur":"Chuck Palahniuk (novel), Jim Uhls (screenplay)"
+      },
+      {
+        "Date":1999
+      },
+      {
+        "Vedette":[
+          {
+            "Nom":"Edward Norton",
+            "Personnage":"Le Narrateur"
+          }
           
+   
+   
 
 }
