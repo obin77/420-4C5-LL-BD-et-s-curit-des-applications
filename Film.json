@@ -1,7 +1,7 @@
 {
   "Films":[
     {
-      "Titre":"Les Minions": [
+      "Titre":"Les Minions" : [
       {
         "Directeur":"Kyle Balda, Pierre Coffin"
       },
@@ -58,11 +58,11 @@
         "Vedette":[
           {
             "Nom":"Edward Norton",
-            "Personnage":"Le Narrateur"
+            "Personnage": "Le Narrateur"
           },
           {
             "Nom":"Brad Pitt"
-            "Personnage":"Tyler Durden"
+            "Personnage": "Tyler Durden"
           }
       ]
       },
