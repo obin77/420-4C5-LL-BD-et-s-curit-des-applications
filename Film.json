@@ -1,5 +1,37 @@
 {
   "Films":[
-    
+    {
+      "Titre":"Les Minions":[
+      {
+        "Directeur":"Kyle Balda, Pierre Coffin"
+      },
+      {
+        "Auteur": "Brian Lynch,"
+      },
+      {
+        "Date": 2015
+      },
+      {
+        "Vedette": [
+          {
+            "Nom": "Sandra Bullock",
+            "Personnage": "Scarlet Overkill (voix)"
+          },
+          {
+            "Nom": "Jon Hamm",
+            "Personnage": "Herb Overkill  (voix)"
+          },
+          {
+            "Nom": "Michael Keaton",
+            "Personnage": "Walter Nelson (voix)"
+          }
+        },
+        "Description":"Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world."
+        "Budget": "$74,000,000"
+        "Fin de semaine d'ouverture au USA":"$115,718,405, 12 Juillet 2015"
+        "Total USA":"$336,045,770"
+        "Total dans le monde":"$1,159,443,932"
+    },
+          
 
 }
