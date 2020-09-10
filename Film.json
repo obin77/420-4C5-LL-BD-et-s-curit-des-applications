@@ -1,7 +1,7 @@
 {
   "Films":[
     {
-      "Titre":"Les Minions":[
+      "Titre":"Les Minions": [
       {
         "Directeur":"Kyle Balda, Pierre Coffin"
       },
@@ -25,16 +25,26 @@
             "Nom": "Michael Keaton",
             "Personnage": "Walter Nelson (voix)"
           }
-        ]
-        },
+      ]
+      },
+      {
         "Description":"Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world."
+      },
+      {
         "Budget": "$74,000,000"
+      },
+      {
         "Fin de semaine d'ouverture au USA":"$115,718,405, 12 Juillet 2015"
+      }, 
+      {
         "Total USA":"$336,045,770"
+      }, 
+      {
         "Total dans le monde":"$1,159,443,932"
+      }
     },
     {
-      "Titre":"Fight Club":[
+      "Titre":"Fight Club": [
       {
         "Directeur":"David Fincher"
       },
@@ -49,9 +59,27 @@
           {
             "Nom":"Edward Norton",
             "Personnage":"Le Narrateur"
+          },
+          {
+            "Nom":"Brad Pitt"
+            "Personnage":"Tyler Durden"
           }
-          
-   
-   
-
+      ]
+      },
+      {
+        "Description":"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+      },
+      {
+        "Budget": "$63,000,000 (estimated)"
+      },
+      {
+        "Fin de semaine d'ouverture au USA":"$11,035,485, 17 Octobre 1999"
+      }, 
+      {
+        "Total USA":"$37,030,102"
+      }, 
+      {
+        "Total dans le monde":"$101,218,804"
+      }
+    }    
 }
